@@ -8,6 +8,8 @@ Pour accéder au formulaire : http://localhost/api-tweet/index
 
 Pour accéder à la recherche de tous les tweets au format json (méthode GET) : http://localhost/api-tweet/tweets
 
+DumpSql de la base de données dbtw : dbtw.sql
+
 Configuration Serveur (WAMP) :
 
 Version Apache : 2.4.41 Port défini pour Apache : 80
