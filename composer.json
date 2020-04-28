@@ -1,0 +1,9 @@
+{
+    "name": "vendo/composer",
+    "description": "dump sql",
+    "type": "library",
+    "require": {
+        "ifsnop/mysqldump-php": "dev-master"
+    },
+    "minimum-stability": "stable"
+}
